@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taking Note</title>
+    <link>https://ultimatdev.github.io/</link>
+    <description>Recent content on Taking Note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Aug 2023 07:20:38 +0530</lastBuildDate><atom:link href="https://ultimatdev.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Time</title>
+      <link>https://ultimatdev.github.io/blogs/hugo-time/</link>
+      <pubDate>Tue, 29 Aug 2023 07:16:38 +0530</pubDate>
+      
+      <guid>https://ultimatdev.github.io/blogs/hugo-time/</guid>
+      <description>Hugo, hugo, hugo&amp;hellip;. 😒-&amp;gt;😁 is what i would describe My journery through the &amp;ldquo;Wonderous&amp;rdquo; world of hugo as&amp;hellip;. i did the task twice and it has been a headache but right now as i am typing this, the entire thing seems so easy and clean like dammmnnn&amp;hellip;.this is all you gotta do to get a blog up and running&amp;hellip;.. anyways i&amp;rsquo;ll talk about both attempts seperately
+Attempt-1 I started by looking up what hugo is then browsing thrugh their site, lookin&amp;rsquo; at themes and then looked up how to set up hugo and making blogs with it.</description>
+    </item>
+    
+  </channel>
+</rss>
